@@ -4,5 +4,5 @@ filters:
       - ykakarap
 
   "*.go":
-    approver:
+    approvers:
       - ykakarap
