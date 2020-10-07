@@ -1,0 +1,8 @@
+filters:
+  "*_test.md":
+    approvers:
+      - ykakarap
+
+  "*.go":
+    approver:
+      - ykakarap
