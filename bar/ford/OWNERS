@@ -1,6 +1,6 @@
 filters:
   "*.go":
-    approver:
+    approvers:
       - ykakarap
   
   "*_test.md":
