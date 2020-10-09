@@ -1,5 +1,5 @@
 filters:
-  ".*\\.go":
+  ".*_test\\.go":
     approvers:
       - ykakarap
   
