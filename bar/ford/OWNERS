@@ -6,7 +6,3 @@ filters:
   ".*_test\\.md":
     approvers:
       - ykakarap
-  
-  ".*":
-    approvers:
-      - nikhita
