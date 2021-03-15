@@ -3,14 +3,6 @@ filters:
     approvers:
       - nikhita
 
-  ".*\\.(mod|sum)":
-    approvers:
-      - ykakarap
-
-  "^main\\.go$":
-    approvers:
-      - ykakarap
-  
-  "^vendor\/github\\.com\/*":
+  "go\\.(mod|sum)$":
     approvers:
       - ykakarap
