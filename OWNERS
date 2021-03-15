@@ -1,2 +1,15 @@
 approvers:
 - nikhita
+
+filters:
+  ".*\\.(mod|sum)"
+    approvers:
+      - ykakarap
+      
+  "^main\\.go$":
+    approvers:
+      - ykakarap
+  
+  "^vendor\/github\\.com\/*"
+    approvers:
+      - ykakarap 
