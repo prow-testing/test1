@@ -1,11 +1,12 @@
-approvers:
-- nikhita
-
 filters:
+  ".*":
+    approvers:
+      - nikhita
+
   ".*\\.(mod|sum)"
     approvers:
       - ykakarap
-      
+
   "^main\\.go$":
     approvers:
       - ykakarap
