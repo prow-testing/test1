@@ -3,7 +3,7 @@ filters:
     approvers:
       - nikhita
 
-  ".*\\.(mod|sum)"
+  ".*\\.(mod|sum)":
     approvers:
       - ykakarap
 
@@ -11,6 +11,6 @@ filters:
     approvers:
       - ykakarap
   
-  "^vendor\/github\\.com\/*"
+  "^vendor\/github\\.com\/*":
     approvers:
-      - ykakarap 
+      - ykakarap
