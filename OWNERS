@@ -6,3 +6,7 @@ filters:
   "^go\\.(mod|sum)$":
     approvers:
       - ykakarap
+
+  "^vendor/github\\.com":
+    approvers:
+      - ykakarap
