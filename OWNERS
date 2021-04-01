@@ -2,7 +2,6 @@ filters:
   ".*":
     approvers:
       - nikhita
-      - ykakarap
 
   "^go\\.(mod|sum)$":
     approvers:
