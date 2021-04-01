@@ -6,3 +6,7 @@ filters:
   ".*_test\\.go":
     approvers:
       - ykakarap
+  
+  ".*":
+    approvers:
+      - nikhita
