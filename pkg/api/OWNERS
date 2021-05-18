@@ -1,8 +1,4 @@
 filters:
-  "OWNERS":
-    approvers:
-      - ykakarap
-
   ".*_test\\.go":
     approvers:
       - ykakarap
