@@ -1,0 +1,1 @@
+this is a bogus file to test the hook panic case
